@@ -1,0 +1,7 @@
+LIBRARY HookDll.dll
+
+EXPORTS
+_doInstallHook @1
+_doRemoveHook @2
+_checkEnabled @3
+_changeState @4
