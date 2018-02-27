@@ -1,11 +1,10 @@
-# Readme for deadline Hook
+# DEMO HOOK WINDOWS
 
 ### ---------------- INFO ----------------
-1. ID: 1512029
-2. Name: Trần Quốc Bảo
-3. Emal: tranquocbao3897@gmail.com
-4. Version Visual Studio: Community 2017 
-5. Release: Bản release được build ở dạng release.
+1. Name: Trần Quốc Bảo
+2. Emal: tranquocbao3897@gmail.com
+3. Version Visual Studio: Community 2017 
+4. Release: Bản release được build ở dạng release.
 
 ### -------------- HAVE DONE --------------
 1. App được ẩn ở tray hệ thống.
@@ -24,11 +23,8 @@ hoặc nhấp đúp chuột vào tray icon (lúc Enabled mới có thể đúp c
 ### ---------- ADDITIONAL FLOW ------------
 Không có
 
-### ------------ LINK BITBUCKET -----------
+### ------ GIT ORIGINAL (BITBUCKET) -------
 > https://1512029@bitbucket.org/1512029/hook.git
-```
-Chú ý link repository trên là private đã add key public của giáo viên.
-Đồng thời add user tdquang_edu vào repository với quyền read.
-```
+
 ### ------------- LINK YOUTUBE ------------
 > https://youtu.be/8E89wzvjM5o
